@@ -8,6 +8,8 @@
     text-decoration: none;
     font-family: "Josefin Sans", sans-serif;
   }
+
+
   
   .wrapper .top_nav{
     margin-top: 5px;
@@ -68,6 +70,11 @@
     margin-top: 20px;
     margin-left: 100px;
     align-items: center;
+  }
+  .content img{
+    float: left;
+    width: 400px;
+    height: auto;
   }
 
   .content p{
