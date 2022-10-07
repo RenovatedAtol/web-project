@@ -71,12 +71,16 @@
     margin-left: 100px;
     align-items: center;
   }
+
   .content img{
     float: left;
     width: 400px;
     height: auto;
   }
 
+  .content table, th, td{
+    border: 1px solid black;
+  }
   .content p{
     padding: 10px;
   }
