@@ -1,5 +1,5 @@
 # web-project
-That's a university project, purpose of the course is to learn web design
+That's a university project, purpose of the course is to learn basics web design
 
 https://htmlreference.io
 https://cssreference.io/
