@@ -104,8 +104,12 @@
     flex-direction: column;
     gap: 20px;
   }
+  
   .catalogue img{
     float: left;
     width: 400px;
     height: auto;
+  }
+  .catalogue .item{
+   margin-top: 30px; 
   }
