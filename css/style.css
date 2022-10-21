@@ -104,7 +104,6 @@
     flex-direction: column;
     gap: 20px;
   }
-  
   .catalogue img{
     float: left;
     width: 400px;
@@ -114,17 +113,17 @@
    margin-top: 30px; 
   }
 
-  .comment-area{
+  .contacts{
+    margin-left: 20px;
+  }
+  .contacts .comment-area{
     display: flex;
     min-width: 65%;
     min-height: 200px;
-    }
-    .header-auth-controlls{
+  }
+  .contacts .header-auth-controlls{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    }
-    .contacts{
-      margin-left: 20px;
-    }
+  }
