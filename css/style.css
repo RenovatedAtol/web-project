@@ -61,6 +61,7 @@
     font-size: 12px;
   }
   .wrapper .side_nav {
+    position: fixed;
     margin-top: 10px;
     margin-left: 10px;
     float: left;  
